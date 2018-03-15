@@ -4,8 +4,16 @@
         "source": "/home/aleksei/.android/build-cache/0f6468230896ef3501f9f897a940e9ad3b20ce46/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/home/aleksei/.android/build-cache/0f6468230896ef3501f9f897a940e9ad3b20ce46/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
@@ -14,5 +22,13 @@
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/home/aleksei/.android/build-cache/0f6468230896ef3501f9f897a940e9ad3b20ce46/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/layout-v21/notification_action.xml"
     }
 ]

@@ -4,12 +4,40 @@
         "source": "/home/aleksei/.android/build-cache/0f6468230896ef3501f9f897a940e9ad3b20ce46/output/res/anim/abc_popup_exit.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_fade_out.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/home/aleksei/.android/build-cache/0f6468230896ef3501f9f897a940e9ad3b20ce46/output/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/home/aleksei/.android/build-cache/0f6468230896ef3501f9f897a940e9ad3b20ce46/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
@@ -22,6 +50,18 @@
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
         "source": "/home/aleksei/.android/build-cache/0f6468230896ef3501f9f897a940e9ad3b20ce46/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/serjardovic/.android/build-cache/f0c5858c9b7d99e6fd6d7559829c92f3f8ec1fab/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",

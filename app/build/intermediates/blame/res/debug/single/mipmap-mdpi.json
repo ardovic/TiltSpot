@@ -4,6 +4,14 @@
         "source": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/serjardovic/Documents/GDG2018/TiltSpot/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/aleksei/google schoolarship/advance/lesson 2/TiltSpot_start/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
