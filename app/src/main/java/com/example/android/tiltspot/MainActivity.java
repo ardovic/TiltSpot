@@ -31,6 +31,10 @@ public class MainActivity extends AppCompatActivity
     // non-zero drift.
     private static final float VALUE_DRIFT = 0.05f;
 
+
+    private float[] mAccelerometerData = new float[3];
+    private float[] mMagnetometerData = new float[3];
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -89,6 +93,47 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onSensorChanged(SensorEvent sensorEvent) {
+
+        int sensorType = sensorEvent.sensor.getType();
+        switch (sensorType) {
+            case Sensor.TYPE_ACCELEROMETER:
+
+                mAccelerometerData = sensorEvent.values.clone();
+
+                break;
+            case Sensor.TYPE_MAGNETIC_FIELD:
+
+                mMagnetometerData = sensorEvent.values.clone();
+
+                break;
+
+        }
+
+        float[] rotationMatrix = new float[9];
+        boolean rotationOk = SensorManager.getRotationMatrix(
+                rotationMatrix,
+                null,
+                mAccelerometerData,
+                mMagnetometerData);
+
+        float[] orientationValue = new float[3];
+
+        if (rotationOk) {
+            SensorManager.getOrientation(rotationMatrix, orientationValue);
+            float azimuth = orientationValue[0];
+            float pitch = orientationValue[1];
+            float roll = orientationValue[2];
+
+            String textAzimuth = String.format(getString(R.string.value_format), azimuth);
+            String textPitch = String.format(getString(R.string.value_format), pitch);
+            String textRoll = String.format(getString(R.string.value_format), roll);
+
+            mTextSensorAzimuth.setText(textAzimuth);
+            mTextSensorPitch.setText(textPitch);
+            mTextSensorRoll.setText(textRoll);
+
+        }
+
     }
 
     /**
